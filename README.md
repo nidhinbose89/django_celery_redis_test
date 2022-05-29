@@ -11,3 +11,4 @@
 >>> add.delay(2,2)
 <AsyncResult: ...fe3...>
 ```
+| Now check the terminal with compose up!
